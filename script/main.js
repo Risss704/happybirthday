@@ -269,15 +269,4 @@ const animationTimeline = () => {
     replyBtn.addEventListener("click", () => {
         tl.restart();
     });
-    .from(".spotify-link", 0.7, {
-    opacity: 0,
-    y: 20,
-    scale: 0.5,
-})
-.to(".spotify-link", 0.7, {
-    opacity: 1,
-    y: 0,
-    scale: 1,
-}, "+=0.5");
-
 }
