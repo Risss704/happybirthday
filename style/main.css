@@ -288,40 +288,6 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
-
-.spotify-link {
-    margin-top: 20px;
-    text-align: center;
-}
-
-.spotify-link a {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #1DB954; /* Spotify hijau */
-    border: 2px solid #1DB954;
-    border-radius: 30px;
-    text-decoration: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-}
-
-.spotify-link a:hover {
-    background-color: #17a84b;
-    border-color: #17a84b;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-    transform: translateY(-2px);
-}
-
-.spotify-link a:active {
-    background-color: #14833b;
-    border-color: #14833b;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transform: translateY(1px);
-}
-
 }
 
   }
